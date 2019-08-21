@@ -10,6 +10,6 @@ fizzBuzz = function(number) {
 	}	
 	else {
 		return number
-	};
+	}
 
 }; 

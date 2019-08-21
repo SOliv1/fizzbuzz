@@ -37,12 +37,10 @@ describe("My fizzBuzz function", function() {
 
             var result = fizzBuzz(10)
 
-
-
             expect(result).toBe("Buzz");
         });
 
-        it("should return FizzBuzz when called as fizzBuzz(15)", function() 
+        it("should return FizzBuzz when called as fizzBuzz(15)", function() {
             var result = fizzBuzz(15)
             expect(result).toBe("FizzBuzz");
         });
