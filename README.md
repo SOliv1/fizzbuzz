@@ -6,9 +6,5 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+##
+FizzBuzz is a classic programming problem that is often asked as an interview question. Create a function called fizzBuzz.
